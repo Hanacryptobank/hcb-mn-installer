@@ -219,7 +219,6 @@ addnode=88.198.133.122
 addnode=88.198.133.121
 addnode=5.112.24.130
 addnode=36.255.228.5
-addnode=36.255.228.5
 EOF
 }
 
