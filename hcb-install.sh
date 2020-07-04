@@ -7,7 +7,7 @@ COIN_DAEMON='/usr/local/bin/hanacryptobankd'
 COIN_CLI='/usr/local/bin/hanacryptobank-cli'
 COIN_REPO='https://github.com/Hanacryptobank/hanacryptobank/releases/download/v1/hcb-daemon-ubuntu-16.tar.gz'
 COIN_NAME='hanacryptobank'
-COIN_PORT=7070
+COIN_PORT=17070
 
 
 NODEIP=$(curl -s4 icanhazip.com)
